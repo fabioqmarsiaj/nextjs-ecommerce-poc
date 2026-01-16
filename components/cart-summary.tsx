@@ -1,4 +1,4 @@
-import { getCart } from "@/lib/actions";
+/* import { getCart } from "@/lib/actions";
 import { formatPrice } from "@/lib/utils";
 
 export default async function CartSummary() {
@@ -39,3 +39,4 @@ export default async function CartSummary() {
     </div>
   );
 }
+ */

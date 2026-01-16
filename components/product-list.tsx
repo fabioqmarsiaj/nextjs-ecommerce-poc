@@ -1,4 +1,4 @@
-"use client";
+/* "use client";
 
 import { ProductCard } from "@/app/ProductCard";
 import { Product } from "@prisma/client";
@@ -26,3 +26,4 @@ export function ProductList({ products }: ProductListProps) {
     </>
   );
 }
+ */

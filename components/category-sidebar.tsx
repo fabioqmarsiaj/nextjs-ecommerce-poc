@@ -1,4 +1,4 @@
-"use client";
+/* "use client";
 
 import Link from "next/link";
 import { useParams } from "next/navigation";
@@ -36,3 +36,4 @@ export function CategorySidebar({ categories }: Props) {
     </div>
   );
 }
+ */

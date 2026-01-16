@@ -1,4 +1,4 @@
-"use client";
+/* "use client";
 import { SearchIcon } from "lucide-react";
 import { Input } from "./ui/input";
 import { useRouter, useSearchParams } from "next/navigation";
@@ -40,3 +40,4 @@ export function SearchInput() {
     </form>
   );
 }
+ */

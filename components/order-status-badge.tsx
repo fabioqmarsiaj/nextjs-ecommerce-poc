@@ -1,4 +1,4 @@
-import { AlertCircle, CheckCircle, Clock, CreditCard } from "lucide-react";
+/* import { AlertCircle, CheckCircle, Clock, CreditCard } from "lucide-react";
 import { Badge } from "./ui/badge";
 
 export default function OrderStatusBadge({ status }: { status: string }) {
@@ -51,3 +51,4 @@ export default function OrderStatusBadge({ status }: { status: string }) {
     </Badge>
   );
 }
+ */

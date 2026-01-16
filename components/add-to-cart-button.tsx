@@ -1,4 +1,4 @@
-"use client";
+/* "use client";
 
 import { ShoppingCart } from "lucide-react";
 import { Button } from "@/components/ui/button";
@@ -34,3 +34,4 @@ export function AddToCartButton({ product }: { product: Product }) {
     </Button>
   );
 }
+ */

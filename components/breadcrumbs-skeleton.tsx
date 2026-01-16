@@ -1,4 +1,4 @@
-import { Skeleton } from "./ui/skeleton";
+/* import { Skeleton } from "./ui/skeleton";
 
 export function BreadcrumbsSkeleton() {
   return (
@@ -9,3 +9,4 @@ export function BreadcrumbsSkeleton() {
     </div>
   );
 }
+ */

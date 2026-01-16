@@ -1,4 +1,4 @@
-"use client";
+/* "use client";
 import { CartItemWithProduct, setProductQuantity } from "@/lib/actions";
 import { formatPrice } from "@/lib/utils";
 import Image from "next/image";
@@ -84,3 +84,4 @@ export default function CartEntry({ cartItem }: CartEntryProps) {
     </li>
   );
 }
+ */

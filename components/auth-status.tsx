@@ -1,4 +1,4 @@
-"use client";
+/* "use client";
 
 import { signOut, useSession } from "next-auth/react";
 import { Skeleton } from "./ui/skeleton";
@@ -50,3 +50,4 @@ export default function AuthStatus() {
     </DropdownMenu>
   );
 }
+ */

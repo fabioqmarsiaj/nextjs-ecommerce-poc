@@ -1,4 +1,4 @@
-import { Home } from "lucide-react";
+/* import { Home } from "lucide-react";
 import {
   Breadcrumb,
   BreadcrumbItem,
@@ -40,3 +40,4 @@ export function Breadcrumbs({ items }: BreadcrumbsProps) {
     </Breadcrumb>
   );
 }
+ */

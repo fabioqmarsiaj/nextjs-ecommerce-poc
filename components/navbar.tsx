@@ -1,4 +1,4 @@
-import Link from "next/link";
+/* import Link from "next/link";
 import { ModeToggle } from "./mode-toggle";
 import { MobileNav } from "./mobile-nav";
 import { SearchInput } from "./search-input";
@@ -48,3 +48,4 @@ export function Navbar() {
     </div>
   );
 }
+ */
