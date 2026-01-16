@@ -1,4 +1,4 @@
-import { ProductCard } from "./ui/products/product-card";
+import { ProductCard } from "../components/ui/product/product-card";
 import { prisma } from "@/lib/prisma";
 
 export default async function HomePage() {
