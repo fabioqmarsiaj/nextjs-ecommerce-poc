@@ -1,7 +1,8 @@
-import { products } from "@/lib/mocks";
 import { ProductCard } from "./ui/products/product-card";
+import { prisma } from "@/lib/prisma";
 
-export default function HomePage() {
+export default async function HomePage() {
+  const products = await prisma.product.findMany();
   return (
     <main className="container mx-auto p-4">
       <h1 className="text-3x1 font-bold mb-6">Home</h1>
